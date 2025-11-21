@@ -1,0 +1,19 @@
+# === Backend ===
+Backend/venv/
+Backend/models/
+Backend/uploads/
+Backend/__pycache__/
+Backend/routes/__pycache__/
+
+# === Node / Frontend ===
+XAI-Frontend/node_modules/
+XAI-Frontend/.next/
+XAI-Frontend/dist/
+XAI-Frontend/build/
+
+# === General ===
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
